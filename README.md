@@ -1,1 +1,1 @@
-# JavaScript-Fundamentals
+# JavaScript-Fundamentals demos for mladinaki
