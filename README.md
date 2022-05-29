@@ -1,1 +1,1 @@
-# JavaScript-Fundamentals demos for mladinaki
+https://github.com/mladinaki/JavaScript-Fundamentals.git
